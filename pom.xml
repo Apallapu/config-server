@@ -4,11 +4,11 @@
 	xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.common-config.service</groupId>
-	<artifactId>common-config.service</artifactId>
+	<groupId>com.commom.config.service</groupId>
+	<artifactId>config-server</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-	<name>common-config.service</name>
+	<name>config-server</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
