@@ -8,6 +8,7 @@ spring:
         git:
           uri: git@github.com:Apallapu/Config-Repo.git
           basedir: target
+          force-pull: true
             
          
 
